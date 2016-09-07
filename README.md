@@ -16,4 +16,4 @@ Checking out the service
   curl localhost:8080
 ```  
   
-https://spring.io/guides/gs/spring-boot/
+![Spring]( https://spring.io/guides/gs/spring-boot/)
