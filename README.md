@@ -1,7 +1,7 @@
 # spring-boot-rest-getstarted
 Building an Application with Spring Boot (Simple example)
 
-How to use it
+##How to use it
 
 The project is created as a Maven project. 
 
